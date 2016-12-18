@@ -1,6 +1,7 @@
 # Welcome to InnovateOS
 
-You can use the [editor on GitHub](https://github.com/InnovateOS/InnovateOS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We Created this Project to provide an improved User Experience of Android.
+**InnovateOS** aims at smooth experience with best selection of minimal features.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
