@@ -2,7 +2,9 @@
 
 We Created this Project to provide an improved User Experience of Android.
 **InnovateOS** aims at smooth experience with best selection of minimal features.
-![logo](InnovateOS.github.io/Our-logo.png)
+
+
+![logo](InnovateOS.github.io/our-logo.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
